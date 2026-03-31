@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Mostafa Elrafei , have ten years of experience as an Embedded Software engineer, I have delivered many complicated projects to high-tier customers like Audi, Daimler, Honda, and BMW. I get contacted with almost all V-Cycle processes, I worked as a developer, Tester, and even Architect, I developed and designed complicated Software, I get the best results in Technical reviews on different domains like code reviews or software requirements.
+My name is Mostafa Elrafei , having ten years of experience as an Embedded Software engineer, I have delivered many complicated projects to high-tier customers like Audi, Daimler, Honda, and BMW. I get contacted with almost all V-Cycle processes, I worked as a developer, Tester, and even Architect, I developed and designed complicated Software, I get the best results in Technical reviews on different domains like code reviews or software requirements.
 
 - 🔭 I’m currently working on STM32F411RE_Firmware_Development repository , inwhich I am working on implementing a challenge in three different ways (polling , interrupt and DMA) on STM32F411RE nucleo board and use monitor tool to show the key differences between the three methods , It is Kind of educational project to grasp STM32 eco system inwhich I am interested in .
 - 🌱 I’m currently learning German Language.
