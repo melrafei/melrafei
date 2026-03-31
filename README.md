@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on STM32F411RE_Firmware_Development repository , inwhich I am working on implementing a challenge in three different ways (polling , interrupt and DMA) on STM32F411RE nucleo board and use monitor tool to show the key differences between the three methods , It is Kind of educational project to grasp STM32 eco system inwhich I am interested in .
-- 🌱 I’m currently learning C++ ,German Language.
+- 🌱 I’m currently learning German Language.
 - 👯 I’m looking to collaborate on new Embedded System projects
 - 📫 How to reach me: You can easily reach me through Linkdin ,https://www.linkedin.com/in/mostafa-elrafei-b74532167/
 <!--
