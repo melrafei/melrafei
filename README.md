@@ -2,7 +2,6 @@
 My name is Mostafa Elrafei , having ten years of experience as an Embedded Software engineer, I have delivered many complicated projects to high-tier customers like Audi, Daimler, Honda, and BMW. I involved with almost all V-Cycle processes, I worked as a developer, Tester, and even Architect, I developed and designed complicated Software,I consistently deliver strong results in technical reviews (code reviews, requirements reviews).
 
 - 🔭 I’m currently working on studying Battery Modeling Systems Embedded Systems.
-- 🌱 I’m currently learning German Language,  improving my C++ language
 - 👯 I’m looking to collaborate on new Embedded System projects
 - 📫 How to reach me: You can easily reach me through Linkdin ,https://www.linkedin.com/in/mostafa-elrafei-b74532167/
 <!--
